@@ -1,13 +1,18 @@
-# Product Backlog
+# Product Backlog - Online Restaurant Ordering System
 
-| ID  | Requirement           |Priority|
-|---- |-----------------------|--------|
-| PB1 | Create an order       | High   |
-| PB2 | View all orders       | High   |
-| PB3 | View a specific order | High   |
-| PB4 | Update an order       | Medium |
-| PB5 | Delete an order       | Medium |
-| PB6 | Add order details     | High   |
-| PB7 | View order details    | High   |
-| PB8 | Update order details  | Medium |
-| PB9 | Delete order details  | Medium |
+| Feature Name | Priority | Points | Define User Story | Assigned |
+|--------------|----------|--------|------------------|----------|
+| Place order as guest (name, phone, address) | High | 8 | Yes | No |
+| Browse menu (dishes, ingredients, price, calories, category) | High | 8 | Yes | No |
+| Create and manage menu items | High | 13 | Yes | No |
+| Add categories (spicy, vegetarian, kids, etc.) | Medium | 5 | Yes | No |
+| Order tracking number generation | High | 8 | Yes | No |
+| Track order status in real-time | High | 13 | Yes | No |
+| Choose delivery or takeout | High | 5 | Yes | No |
+| Payment processing (multiple methods) | High | 13 | Yes | No |
+| Staff view for managing orders | High | 8 | Yes | No |
+| Chef view for preparing orders | Medium | 5 | Yes | No |
+| Customer feedback (reviews and ratings) | Medium | 5 | Yes | No |
+| Promo codes and discounts | Medium | 8 | Yes | No |
+| Data analysis (sales, trends, preferences) | Low | 13 | Yes | No |
+| Documentation and training support | Low | 3 | Yes | No |
